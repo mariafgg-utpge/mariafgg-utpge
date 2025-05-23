@@ -29,10 +29,9 @@
   <img src="https://raw.githubusercontent.com/mariafgg-utpge/github-stats-transparent/output/generated/overview.svg" alt="mariafgg-utpge" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Home]**
-- :seedling: &nbsp;I’m currently working on my **[PhD WarmUp Project]**
+- :office: &nbsp;I'm currently working on my PhD at UT Austin **[Home]**
+- :seedling: &nbsp;My main project now is my **[PhD WarmUp Project]**
 - :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
