@@ -1,6 +1,6 @@
 
 
-<h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda González</h1>
+<h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
 <h3 align="left">I do Petroleum Engineering/Vulcanology/Geothermal Energy / Geoscience /Software Development</h3>
 
 
