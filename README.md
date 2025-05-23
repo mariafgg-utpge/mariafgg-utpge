@@ -1,7 +1,7 @@
 
 
 <h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
-<h3 align="left">I do Development / Engineering/ Petrophysics / Geophysics applied to Petroleum Reservoirs, Vulcanos and Geothermal Energy for Integrated, Less Uncertain Usable Solutions</h3>
+<h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos :volcano: and Geothermal Energy :battery: for Integrated, Less Uncertain and more Usable Quantitative Solutions :chart_with_upwards_trend:</h3>
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
@@ -41,7 +41,11 @@
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
+ 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
