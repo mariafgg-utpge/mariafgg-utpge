@@ -9,6 +9,5 @@ I have degrees on:
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=gotham" alt="mariafgg-utpge" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelmmorales&hide_progress=true&langs_count=10&count_private=true&size_weight=0.5&count_weight=0.5&theme=holi&card_width=300" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafgg-utpge&hide_progress=true&langs_count=10&count_private=true&size_weight=0.5&count_weight=0.5&theme=holi&card_width=300" />
 </a>
