@@ -3,7 +3,6 @@
 <h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda González</h1>
 <h3 align="left">I do Petroleum Engineering/Vulcanology/Geothermal Energy / Geoscience /Software Development</h3>
 
-### Hi there 👋 I am a Software and Petroleum Engineer/Geoscientist living in Austin, TX, USA
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
