@@ -1,7 +1,7 @@
 
 
 <h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
-<h3 align="left">I do Petroleum Engineering/Vulcanology/Geothermal Energy / Geoscience /Software Development</h3>
+<h3 align="left">I do Development / Engineering/ Petrophysics / Geophysics applied to Petroleum Reservoirs, Vulcanos and Geothermal Energy for Integrated, Less Uncertain Usable Solutions</h3>
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
