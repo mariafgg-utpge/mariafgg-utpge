@@ -1,3 +1,8 @@
+
+
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Maria Fernanda González</h1>
+<h3 align="left">I do Petroleum Engineering/Vulcanology/Geothermal Energy / Geoscience /Software Development</h3>
+
 ## Hi there 👋 I am a Software Developer and Geoscientist living in Austin, TX, USA
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
@@ -5,13 +10,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
 
 
-
-
 ## 📈 my github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=radical)
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Maria Fernanda González</h1>
-<h3 align="left">I do Petroleum Engineering/Vulcanology/Geothermal Energy / Geoscience /Software Development</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
