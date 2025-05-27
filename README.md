@@ -30,7 +30,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working on my PhD at UT Austin **[Home]**
-- :seedling: &nbsp;My main project now is my **[PhD WarmUp Project]**
+- :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
 - :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -78,11 +78,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mariafgg-utpge/warmup"><b>PhD Warmup</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/warmup?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/warmup?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/warmup?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/warmup?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern"><b>Machine-Assisted Well-Log Pattern Recognition</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mariafgg-utpge/Tutorials_Formation_Evaluation"><b>Tutorial to plot Triple Combo in Python</b></a></td>
@@ -96,5 +96,5 @@
 <!-- links -->
 
 [Home]: https://github.com/mariafgg-utpge " Github Home"
-[PhD WarmUp Project]: https://github.com/mariafgg-utpge/warmup "Warmup Project"
+[Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
 [linkedin]: https://www.linkedin.com/in/maria-fernanda-g-5a2753224 "Maria's LinkedIn"
