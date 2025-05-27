@@ -84,6 +84,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/warmup?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/warmup?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/mariafgg-utpge/Tutorials_Formation_Evaluation"><b>Tutorial to plot Triple Combo in Python</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/warmup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/warmup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/warmup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/warmup?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	 
   </tbody>
 </table>
