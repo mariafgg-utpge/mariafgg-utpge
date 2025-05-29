@@ -1,5 +1,5 @@
+<img src="https://raw.githubusercontent.com/mariafgg-utpge/mariafgg-utpge/main/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="Project Visualization" style="max-width: 600px; border-radius: 8px;" align="center">
 
-<img src="https://github.com/mariafgg-utpge/mariafgg-utpge/blob/8f2ff209d63019ccc64dd675e33235fe34d2a83e/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="Project Visualization" style="max-width: 600px; border-radius: 8px;" align="center">
 <h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
 <h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos :volcano: and Geothermal Energy :battery: for Integrated, Less Uncertain and more Usable Quantitative Solutions :chart_with_upwards_trend:</h3>
 
