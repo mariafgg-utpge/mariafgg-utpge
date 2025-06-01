@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/mariafgg-utpge/github-stats-transparent/output/generated/overview.svg" alt="mariafgg-utpge" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working on my PhD at UT Austin **[Home]**
+- :office: &nbsp;I'm currently working on my PhD at UT Austin 
 - :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
 - :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -94,6 +94,6 @@
 </table>
 <!-- links -->
 
-[Home]: https://github.com/mariafgg-utpge " Github Home"
+
 [Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
 [linkedin]: https://www.linkedin.com/in/maria-fernanda-g-5a2753224 "Maria's LinkedIn"
