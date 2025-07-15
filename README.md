@@ -21,7 +21,7 @@
 </p>
 
 <a href="#mariafgg-utpge-title">
-  <img src="https://raw.githubusercontent.com/mariafgg-utpge/github-stats-transparent/output/generated/overview.svg" alt="mariafgg-utpge" align="right" />
+  <img src="https://raw.githubusercontent.com/mariafgg-utpge/github-stats-transparent/output/generated/overview.svg" alt="mariafgg-utpge" style="float: right; margin-left: 10px;" />
 </a>
 
 - :office: &nbsp;I'm currently working on my PhD at UT Austin 
