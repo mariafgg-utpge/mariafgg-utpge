@@ -5,7 +5,7 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-g-5a2753224/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-g-5a2753224/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
 
 
@@ -96,4 +96,4 @@
 
 
 [Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
-[linkedin]: https://www.linkedin.com/in/maria-fernanda-g-5a2753224 "Maria's LinkedIn"
+[linkedin]: https://www.linkedin.com/in/maria-g-5a2753224 "Maria's LinkedIn"
