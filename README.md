@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=radical)]
 
 
 <p align="left">
