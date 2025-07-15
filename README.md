@@ -20,9 +20,6 @@
   </a>
 </p>
 
-<a href="#mariafgg-utpge-title">
-  <img src="https://raw.githubusercontent.com/mariafgg-utpge/github-stats-transparent/output/generated/overview.svg" alt="mariafgg-utpge" style="float: right; margin-left: 10px;" />
-</a>
 
 - :office: &nbsp;I'm currently working on my PhD at UT Austin 
 - :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
