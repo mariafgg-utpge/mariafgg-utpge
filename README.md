@@ -1,16 +1,11 @@
-
-
 <h1 align="left" id="mariafgg-utpge-title">:wave: Hello there! I'm Maria Fernanda</h1>
 <h3 align="left">I do Software Development, Engineering, Petrophysics, Geology and Geophysics applied to Petroleum Reservoirs, Volcanos :volcano: and Geothermal Energy :battery: for Integrated, Less Uncertain and more Usable Quantitative Solutions :chart_with_upwards_trend:</h3>
-
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-utpge)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-g-5a2753224/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariafgg@utexas.edu)](mailto:mariafgg@utexas.edu)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-utpge&show_icons=true&theme=radical)]
-
 
 <p align="left">
   <a href="https://github.com/mariafgg-utpge/mariafgg-utpge">
@@ -43,7 +38,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img alt="Plotly Dash" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=flat-square&logo=plotly&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white]" /> 
+  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <!--  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
 <!--  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
@@ -62,8 +57,8 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
 </p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -93,7 +88,6 @@
   </tbody>
 </table>
 <!-- links -->
-
 
 [Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
 [linkedin]: https://www.linkedin.com/in/maria-g-5a2753224 "Maria's LinkedIn"
