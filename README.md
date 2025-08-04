@@ -22,7 +22,7 @@
 
 
 - :office: &nbsp;I'm currently working on my PhD at UT Austin 
-- :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]**
+- :seedling: &nbsp;My main project now is my **[Machine-Assisted Well-Log Pattern Recognition Project]** from which I have started the creation of the **[Signal-Petrophysics]** package, with reusable code, incorporating Signal-Processing techniques into petrophysical analysis.
 - :speech_balloon: &nbsp;I like to talk about **Petrophysics** and other **Geoscience Predictive Issues**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -82,9 +82,21 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
     </tr> 
+ <tr>
+      <td><a href="[https://github.com/mariafgg-utpge/Signal-Petrophysics.git]"><b>Signal-Petrophysics Package</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
+    </tr> 
+
+
+
+    
   </tbody>
 </table>
 <!-- links -->
 
 [Machine-Assisted Well-Log Pattern Recognition Project]: https://github.com/mariafgg-utpge/Machine-Assisted-Well-Log-Pattern "Machine-Assisted Well-Log Pattern Recognition"
+[Signal-Petrophysics]: https://github.com/mariafgg-utpge/Signal-Petrophysics "Signal-Petrophysics"
 [linkedin]: https://www.linkedin.com/in/maria-g-5a2753224 "Maria's LinkedIn"
