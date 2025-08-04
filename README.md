@@ -83,7 +83,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mariafgg-utpge/Tutorials_Formation_Evaluation?style=flat-square&labelColor=343b41"/></td>
     </tr> 
  <tr>
-      <td><a href="[https://github.com/mariafgg-utpge/Signal-Petrophysics.git]"><b>Signal-Petrophysics Package</b></a></td>
+      <td><a href="[https://github.com/mariafgg-utpge/Signal-Petrophysics]"><b>Signal-Petrophysics Package</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mariafgg-utpge/Signal-Petrophysics.git?style=flat-square&labelColor=343b41"/></td>
